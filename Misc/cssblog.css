@@ -1,0 +1,36 @@
+
+body{
+	font-family: Source Sans Pro;
+	border: 20px solid #bdc3c7;
+	width: 50%;
+	margin: 40px auto;
+}
+
+h3{
+	color: #3498db;
+}
+
+h2{
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+
+hr{
+
+	color: #bdc3c7;
+
+}
+
+div{
+	padding: 20px;
+}
+
+.one{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+.date{
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}

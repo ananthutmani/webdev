@@ -1,0 +1,51 @@
+
+.btn {
+    background-color: transparent;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 0;
+    transition: all .3s ease-in 0s;
+}
+
+     .btn:focus {
+       color: #ddd;
+      }
+      
+      .btn-transparent {
+        border: 1px solid #57cbcc;
+      }
+      
+      .btn-transparent:hover, .btn-transparent:focus {
+        background-color: #57cbcc;
+        border: 1px solid transparent;
+        color: #fff;
+      }
+
+
+
+
+
+      .form-control:focus {
+        box-shadow: 0 0 0;
+      }
+      
+      .form-control::-webkit-input-placeholder {
+        /*  Chrome, Safari, Opera  */
+        color: #ddd;
+      }
+      
+      .form-control:-moz-placeholder {
+        /* Firefox 18- */
+        color: #ddd;
+      }
+      
+      .form-control::-moz-placeholder {
+        /* Firefox 19+ */
+        color: #ddd;
+      }
+      
+      .form-control:-ms-input-placeholder {
+        /*  Internet Explorer  */
+        color: #ddd;
+      }
+      

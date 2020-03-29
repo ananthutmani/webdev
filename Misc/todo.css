@@ -1,0 +1,14 @@
+h1{
+	color: #f0299c;
+	border: 1px dotted purple;
+}
+
+body{
+	background: rgba(0,0,255,0.3);
+}
+li{
+	border: 1px dashed red
+}
+#drool{
+	background: rgba(0,0,255,0.3);
+}
